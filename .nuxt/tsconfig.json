@@ -9,7 +9,7 @@
     "skipLibCheck": true,
     "strict": true,
     "allowJs": true,
-    "baseUrl": "D:/t-savvy",
+    "baseUrl": "D:/profile",
     "noEmit": true,
     "resolveJsonModule": true,
     "allowSyntheticDefaultImports": true,
@@ -18,64 +18,64 @@
     ],
     "paths": {
       "~": [
-        "D:/t-savvy"
+        "D:/profile"
       ],
       "~/*": [
-        "D:/t-savvy/*"
+        "D:/profile/*"
       ],
       "@": [
-        "D:/t-savvy"
+        "D:/profile"
       ],
       "@/*": [
-        "D:/t-savvy/*"
+        "D:/profile/*"
       ],
       "~~": [
-        "D:/t-savvy"
+        "D:/profile"
       ],
       "~~/*": [
-        "D:/t-savvy/*"
+        "D:/profile/*"
       ],
       "@@": [
-        "D:/t-savvy"
+        "D:/profile"
       ],
       "@@/*": [
-        "D:/t-savvy/*"
+        "D:/profile/*"
       ],
       "assets": [
-        "D:/t-savvy/assets"
+        "D:/profile/assets"
       ],
       "assets/*": [
-        "D:/t-savvy/assets/*"
+        "D:/profile/assets/*"
       ],
       "public": [
-        "D:/t-savvy/public"
+        "D:/profile/public"
       ],
       "public/*": [
-        "D:/t-savvy/public/*"
+        "D:/profile/public/*"
       ],
       "#app": [
-        "D:/t-savvy/node_modules/nuxt/dist/app"
+        "D:/profile/node_modules/nuxt/dist/app"
       ],
       "#app/*": [
-        "D:/t-savvy/node_modules/nuxt/dist/app/*"
+        "D:/profile/node_modules/nuxt/dist/app/*"
       ],
       "vue-demi": [
-        "D:/t-savvy/node_modules/nuxt/dist/app/compat/vue-demi"
+        "D:/profile/node_modules/nuxt/dist/app/compat/vue-demi"
       ],
       "#vue-router": [
-        "D:/t-savvy/.nuxt/vue-router"
+        "D:/profile/.nuxt/vue-router"
       ],
       "#imports": [
-        "D:/t-savvy/.nuxt/imports"
+        "D:/profile/.nuxt/imports"
       ],
       "#build": [
-        "D:/t-savvy/.nuxt"
+        "D:/profile/.nuxt"
       ],
       "#build/*": [
-        "D:/t-savvy/.nuxt/*"
+        "D:/profile/.nuxt/*"
       ],
       "#components": [
-        "D:/t-savvy/.nuxt/components"
+        "D:/profile/.nuxt/components"
       ]
     }
   },
@@ -83,14 +83,14 @@
     "./nuxt.d.ts",
     "../**/*",
     "../**/*",
-    "D:/t-savvy",
-    "D:/t-savvy/*",
-    "D:/t-savvy",
-    "D:/t-savvy/*",
-    "D:/t-savvy",
-    "D:/t-savvy/*",
-    "D:/t-savvy",
-    "D:/t-savvy/*"
+    "D:/profile",
+    "D:/profile/*",
+    "D:/profile",
+    "D:/profile/*",
+    "D:/profile",
+    "D:/profile/*",
+    "D:/profile",
+    "D:/profile/*"
   ],
   "exclude": [
     "../dist",

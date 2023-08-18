@@ -12,51 +12,51 @@
     "jsxFragmentFactory": "Fragment",
     "paths": {
       "#imports": [
-        "D:/t-savvy/.nuxt/types/nitro-imports"
+        "D:/profile/.nuxt/types/nitro-imports"
       ],
       "#paths": [
-        "D:/t-savvy/node_modules/nuxt/dist/core/runtime/nitro/paths"
+        "D:/profile/node_modules/nuxt/dist/core/runtime/nitro/paths"
       ],
       "~": [
-        "D:/t-savvy"
+        "D:/profile"
       ],
       "~/*": [
-        "D:/t-savvy/*"
+        "D:/profile/*"
       ],
       "@": [
-        "D:/t-savvy"
+        "D:/profile"
       ],
       "@/*": [
-        "D:/t-savvy/*"
+        "D:/profile/*"
       ],
       "~~": [
-        "D:/t-savvy"
+        "D:/profile"
       ],
       "~~/*": [
-        "D:/t-savvy/*"
+        "D:/profile/*"
       ],
       "@@": [
-        "D:/t-savvy"
+        "D:/profile"
       ],
       "@@/*": [
-        "D:/t-savvy/*"
+        "D:/profile/*"
       ],
       "assets": [
-        "D:/t-savvy/assets"
+        "D:/profile/assets"
       ],
       "assets/*": [
-        "D:/t-savvy/assets/*"
+        "D:/profile/assets/*"
       ],
       "public": [
-        "D:/t-savvy/public"
+        "D:/profile/public"
       ],
       "public/*": [
-        "D:/t-savvy/public/*"
+        "D:/profile/public/*"
       ]
     }
   },
   "include": [
-    "D:/t-savvy/.nuxt/types/nitro-nuxt.d.ts",
+    "D:/profile/.nuxt/types/nitro-nuxt.d.ts",
     "./types/nitro.d.ts",
     "../**/*",
     "../server/**/*"
