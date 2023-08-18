@@ -1,5 +1,0 @@
-const Lessons_vue_vue_type_style_index_0_scoped_7f670c1e_lang = ".text-outline[data-v-7f670c1e]{-webkit-text-fill-color:#000;-webkit-text-stroke:3px}.blue-shadow[data-v-7f670c1e]{box-shadow:7px 7px 2px 0 rgba(100,180,186,.5)}.BG[data-v-7f670c1e]{padding-top:5%}@keyframes zoom-in-7f670c1e{0%{opacity:0;transform:scale(.2)}to{opacity:1;transform:scale(1)}}.animate-zoom[data-v-7f670c1e]{animation:zoom-in-7f670c1e 1s forwards}@keyframes typing-7f670c1e{0%{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:translateX(0)}}.text-animation[data-v-7f670c1e]{animation:typing-7f670c1e 2s ease-in-out;animation-fill-mode:forwards;display:inline-block;opacity:0}.text-animation[data-v-7f670c1e]:nth-child(2){animation-delay:.2s}.text-animation[data-v-7f670c1e]:nth-child(3){animation-delay:.4s}.text-animation[data-v-7f670c1e]:nth-child(4){animation-delay:.6s}.text-animation[data-v-7f670c1e]:nth-child(5){animation-delay:.8s}.text-animation[data-v-7f670c1e]:nth-child(6){animation-delay:1s}";
-export {
-  Lessons_vue_vue_type_style_index_0_scoped_7f670c1e_lang as default
-};
-//# sourceMappingURL=index-styles-2.mjs-9189c3a7.js.map
